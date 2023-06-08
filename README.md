@@ -19,7 +19,6 @@ Folder "Instancias" contains all the instances used for testing. Each file ".txt
 
 The generated instances are based on the reference instances of Solomon (1987) for the vehicle routing problem with time windows. The following parameters were varied: i ) length of tasks’ time windows, ii ) type of geographical distribution, and iii ) number of tasks and technicians as follows. Time windows were classified into three different scenarios, namely, short, long, and random; a short time window [e, ℓ] corresponding to ℓ−e ∈ {1.5h, 2h, . . . , 3.5h}, a long time window corresponding to ℓ − e ∈ {6.5h, 7h, . . . , 9h}, and a random time window corresponding to ℓ − e ∈ \{1.5h, 2h, . . . , 9h\}. Geographical distributions were classified as (R) random uniform distribution, (C) clustered distribution, and (RC) semi-clustered distribution as suggested in Solomon (1987). There were considered eleven combinations of a number of tasks and technicians as depicted in Table 1, totaling 99 = 3 × 3 × 11 instances. 
 
- 
   
 Case | #tasks (n) | #tech. (m) 
 --- | --- | ---| ---
