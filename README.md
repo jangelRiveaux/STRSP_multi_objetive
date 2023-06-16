@@ -4,14 +4,16 @@ This repository contains all instances and results of the tests presented in the
 ```bash
 .    
 ├── Instancias    		
-├── README.md	    	
+├── README.md	
+├── STRSP_C_2_2.txt
+├── BRKGA-QL - graficos exemplos.xlsx	
 └── Resultados	    	
     ├── BRKGA-QL    		
     ├── NSGA-II	    	
     └── SPEA2	  
  ```
 
-Folder "Instancias" contains all the instances used for testing. Each file ".txt" represent an instance.  Folder "Resultados" contains te result of each algorithm tested in each subfolder "BRKGA-QL", "NSGA-II" and "SPEA2". 
+Folder "Instancias" contains all the instances used for testing. Each file ".txt" represent an instance.  Folder "Resultados" contains te result of each algorithm tested in each subfolder "BRKGA-QL", "NSGA-II" and "SPEA2". "STRSP_C_2_2.txt" is the example instance used in the paper and "BRKGA-QL - graficos exemplos.xlsx"	 contain the result obtained for this example.
 
 
 
