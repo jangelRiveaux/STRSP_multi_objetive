@@ -3,17 +3,17 @@
 This repository contains all instances and results of the tests presented in the subscribed paper "Scheduling technicians and tasks through a multi-objective Biased Random-Key Genetic Algorithm" by th eauthors R. B. Damm,  J. A. R. Merino, A. Chaves and D. P. Ronconi. The repository is stuctured as follows:
 ```bash
 .    
-├── Instancias    		
+├── Instances    		
 ├── README.md	
 ├── STRSP_C_2_2.txt
-├── BRKGA-QL - graficos exemplos.xlsx	
-└── Resultados	    	
+├── BRKGA-QL - grafic exemple.xlsx	
+└── Results    	
     ├── BRKGA-QL    		
     ├── NSGA-II	    	
     └── SPEA2	  
  ```
 
-Folder "Instancias" contains all the instances used for testing. Each file ".txt" represent an instance.  Folder "Resultados" contains te result of each algorithm tested in each subfolder "BRKGA-QL", "NSGA-II" and "SPEA2". "STRSP_C_2_2.txt" is the example instance used in the paper and "BRKGA-QL - graficos exemplos.xlsx"	 contain the result obtained for this example.
+Folder "Instances" contains all the instances used for testing. Each file ".txt" represent an instance.  Folder "Results" contains te result of each algorithm tested in each subfolder "BRKGA-QL", "NSGA-II" and "SPEA2". "STRSP_C_2_2.txt" is the example instance used in the paper and "BRKGA-QL - grafic exemple.xlsx"	 contain the result obtained for this example.
 
 
 
